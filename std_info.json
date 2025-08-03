@@ -1,0 +1,316 @@
+{
+  "Student_Information": [
+    {
+      "id": "1",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": "2",
+      "name": "Ananya Verma",
+      "email": "ananya.verma@example.com",
+      "phone": "9876543211"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Gupta",
+      "email": "rahul.gupta@example.com",
+      "phone": "9876543212"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Mehta",
+      "email": "sneha.mehta@example.com",
+      "phone": "9876543213"
+    },
+    {
+      "id": "5",
+      "name": "Ishaan Joshi",
+      "email": "ishaan.joshi@example.com",
+      "phone": "9876543214"
+    },
+    {
+      "id": "6",
+      "name": "Pooja Reddy",
+      "email": "pore3156@example.com",
+      "phone": "9876543215"
+    },
+    {
+      "id": "7",
+      "name": "Karan Singh",
+      "email": "karan.singh@example.com",
+      "phone": "9876543216"
+    },
+    {
+      "id": "8",
+      "name": "Neha Kapoor",
+      "email": "neha.kapoor@example.com",
+      "phone": "9876543217"
+    },
+    {
+      "id": "9",
+      "name": "Vikram Rao",
+      "email": "vikram.rao@example.com",
+      "phone": "9876543218"
+    },
+    {
+      "id": "10",
+      "name": "Tanya Das",
+      "email": "tanya.das@example.com",
+      "phone": "9876543219"
+    },
+    {
+      "id": "11",
+      "name": "Ravi Patel",
+      "email": "ravi.patel@example.com",
+      "phone": "9876543220"
+    },
+    {
+      "id": "12",
+      "name": "Meera Nair",
+      "email": "meera.nair@example.com",
+      "phone": "9876543221"
+    },
+    {
+      "id": "13",
+      "name": "Aditya Sen",
+      "email": "aditya.sen@example.com",
+      "phone": "9876543222"
+    },
+    {
+      "id": "14",
+      "name": "Divya Jain",
+      "email": "divya.jain@example.com",
+      "phone": "9876543223"
+    },
+    {
+      "id": "15",
+      "name": "Manish Yadav",
+      "email": "manish.yadav@example.com",
+      "phone": "9876543224"
+    },
+    {
+      "id": "16",
+      "name": "Nisha Roy",
+      "email": "nisha.roy@example.com",
+      "phone": "9876543225"
+    },
+    {
+      "id": "17",
+      "name": "Amit Bhatia",
+      "email": "amit.bhatia@example.com",
+      "phone": "9876543226"
+    },
+    {
+      "id": "18",
+      "name": "Raj Gupta",
+      "email": "rj7831@example.com",
+      "phone": "9671571452"
+    },
+    {
+      "id": "19",
+      "name": "Rohan Das",
+      "email": "rohan.das@example.com",
+      "phone": "9876543228"
+    },
+    {
+      "id": "20",
+      "name": "Kriti Chawla",
+      "email": "kriti.chawla@example.com",
+      "phone": "9876543229"
+    },
+    {
+      "id": "21",
+      "name": "Arjun Malhotra",
+      "email": "arjun.malhotra@example.com",
+      "phone": "9876543230"
+    },
+    {
+      "id": "22",
+      "name": "Priya Sen",
+      "email": "priya.sen@example.com",
+      "phone": "9876543231"
+    },
+    {
+      "id": "23",
+      "name": "Siddharth Rana",
+      "email": "siddharth.rana@example.com",
+      "phone": "9876543232"
+    },
+    {
+      "id": "25",
+      "name": "Deepak Shetty",
+      "email": "deepak.shetty@example.com",
+      "phone": "9876543234"
+    },
+    {
+      "id": "26",
+      "name": "Ritika Bansal",
+      "email": "ritika.bansal@example.com",
+      "phone": "9876543235"
+    },
+    {
+      "id": "27",
+      "name": "Harshit Goel",
+      "email": "harshit.goel@example.com",
+      "phone": "9876543236"
+    },
+    {
+      "id": "28",
+      "name": "Shruti Saxena",
+      "email": "shruti.saxena@example.com",
+      "phone": "9876543237"
+    },
+    {
+      "id": "29",
+      "name": "Naveen Kumar",
+      "email": "naveen.kumar@example.com",
+      "phone": "9876543238"
+    },
+    {
+      "id": "30",
+      "name": "Juhi Pandey",
+      "email": "juhi.pandey@example.com",
+      "phone": "9876543239"
+    },
+    {
+      "id": "31",
+      "name": "Rahul Gupta",
+      "email": "rg4031@example.com",
+      "phone": "9555571452"
+    },
+    {
+      "id": 35,
+      "name": "Gaurav Mehra",
+      "email": "gaurav.mehra@example.com",
+      "phone": "9876543244"
+    },
+    {
+      "id": 32,
+      "name": "Priti Arora",
+      "email": "priti.arora@example.com",
+      "phone": "9876543241"
+    },
+    {
+      "id": 33,
+      "name": "Yash Jain",
+      "email": "yash.jain@example.com",
+      "phone": "9876543242"
+    },
+    {
+      "id": 34,
+      "name": "Simran Kaur",
+      "email": "simran.kaur@example.com",
+      "phone": "9876543243"
+    },
+    {
+      "id": 35,
+      "name": "Gaurav Mehra",
+      "email": "gaurav.mehra@example.com",
+      "phone": "9876543244"
+    },
+    {
+      "id": 36,
+      "name": "Tanvi Sharma",
+      "email": "tanvi.sharma@example.com",
+      "phone": "9876543245"
+    },
+    {
+      "id": 37,
+      "name": "Kabir Rawat",
+      "email": "kabir.rawat@example.com",
+      "phone": "9876543246"
+    },
+    {
+      "id": 38,
+      "name": "Mehul Shah",
+      "email": "mehul.shah@example.com",
+      "phone": "9876543247"
+    },
+    {
+      "id": 39,
+      "name": "Ira Desai",
+      "email": "ira.desai@example.com",
+      "phone": "9876543248"
+    },
+    {
+      "id": 40,
+      "name": "Om Tiwari",
+      "email": "om.tiwari@example.com",
+      "phone": "9876543249"
+    },
+    {
+      "id": 41,
+      "name": "Reema Sood",
+      "email": "reema.sood@example.com",
+      "phone": "9876543250"
+    },
+    {
+      "id": 42,
+      "name": "Nakul Chawla",
+      "email": "nakul.chawla@example.com",
+      "phone": "9876543251"
+    },
+    {
+      "id": 43,
+      "name": "Anushka Bhatt",
+      "email": "anushka.bhatt@example.com",
+      "phone": "9876543252"
+    },
+    {
+      "id": 44,
+      "name": "Dhruv Saini",
+      "email": "dhruv.saini@example.com",
+      "phone": "9876543253"
+    },
+    {
+      "id": 45,
+      "name": "Ishita Malviya",
+      "email": "ishita.malviya@example.com",
+      "phone": "9876543254"
+    },
+    {
+      "id": 46,
+      "name": "Ayaan Mittal",
+      "email": "ayaan.mittal@example.com",
+      "phone": "9876543255"
+    },
+    {
+      "id": 47,
+      "name": "Zoya Sheikh",
+      "email": "zoya.sheikh@example.com",
+      "phone": "9876543256"
+    },
+    {
+      "id": 48,
+      "name": "Rajeev Nanda",
+      "email": "rajeev.nanda@example.com",
+      "phone": "9876543257"
+    },
+    {
+      "id": 49,
+      "name": "Avantika Dey",
+      "email": "avantika.dey@example.com",
+      "phone": "9876543258"
+    },
+    {
+      "id": 50,
+      "name": "Nitin Chauhan",
+      "email": "nitin.chauhan@example.com",
+      "phone": "9876543259"
+    },
+    {
+      "id": 51,
+      "name": "Payal Bhargava",
+      "email": "payal.bhargava@example.com",
+      "phone": "9876543260"
+    },
+    {
+      "id": 52,
+      "name": "Rajat Kapoor",
+      "email": "rajat.kapoor@example.com",
+      "phone": "9876543261"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+    {
+    "id": 32,
+    "name": "Priti Arora",
+    "email": "priti.arora@example.com",
+    "phone": "9876543241"
+  },
+  {
+    "id": 33,
+    "name": "Yash Jain",
+    "email": "yash.jain@example.com",
+    "phone": "9876543242"
+  },
+  {
+    "id": 34,
+    "name": "Simran Kaur",
+    "email": "simran.kaur@example.com",
+    "phone": "9876543243"
+  },
+  {
+    "id": 35,
+    "name": "Gaurav Mehra",
+    "email": "gaurav.mehra@example.com",
+    "phone": "9876543244"
+  },
+  {
+    "id": 36,
+    "name": "Tanvi Sharma",
+    "email": "tanvi.sharma@example.com",
+    "phone": "9876543245"
+  },
+  {
+    "id": 37,
+    "name": "Kabir Rawat",
+    "email": "kabir.rawat@example.com",
+    "phone": "9876543246"
+  },
+  {
+    "id": 38,
+    "name": "Mehul Shah",
+    "email": "mehul.shah@example.com",
+    "phone": "9876543247"
+  },
+  {
+    "id": 39,
+    "name": "Ira Desai",
+    "email": "ira.desai@example.com",
+    "phone": "9876543248"
+  },
+  {
+    "id": 40,
+    "name": "Om Tiwari",
+    "email": "om.tiwari@example.com",
+    "phone": "9876543249"
+  },
+  {
+    "id": 41,
+    "name": "Reema Sood",
+    "email": "reema.sood@example.com",
+    "phone": "9876543250"
+  },
+  {
+    "id": 42,
+    "name": "Nakul Chawla",
+    "email": "nakul.chawla@example.com",
+    "phone": "9876543251"
+  },
+  {
+    "id": 43,
+    "name": "Anushka Bhatt",
+    "email": "anushka.bhatt@example.com",
+    "phone": "9876543252"
+  },
+  {
+    "id": 44,
+    "name": "Dhruv Saini",
+    "email": "dhruv.saini@example.com",
+    "phone": "9876543253"
+  },
+  {
+    "id": 45,
+    "name": "Ishita Malviya",
+    "email": "ishita.malviya@example.com",
+    "phone": "9876543254"
+  },
+  {
+    "id": 46,
+    "name": "Ayaan Mittal",
+    "email": "ayaan.mittal@example.com",
+    "phone": "9876543255"
+  },
+  {
+    "id": 47,
+    "name": "Zoya Sheikh",
+    "email": "zoya.sheikh@example.com",
+    "phone": "9876543256"
+  },
+  {
+    "id": 48,
+    "name": "Rajeev Nanda",
+    "email": "rajeev.nanda@example.com",
+    "phone": "9876543257"
+  },
+  {
+    "id": 49,
+    "name": "Avantika Dey",
+    "email": "avantika.dey@example.com",
+    "phone": "9876543258"
+  },
+  {
+    "id": 50,
+    "name": "Nitin Chauhan",
+    "email": "nitin.chauhan@example.com",
+    "phone": "9876543259"
+  },
+  {
+    "id": 51,
+    "name": "Payal Bhargava",
+    "email": "payal.bhargava@example.com",
+    "phone": "9876543260"
+  },
+  {
+    "id": 52,
+    "name": "Rajat Kapoor",
+    "email": "rajat.kapoor@example.com",
+    "phone": "9876543261"
+  }
+]
