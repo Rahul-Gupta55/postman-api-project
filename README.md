@@ -1,0 +1,10 @@
+Student Information API Project – Postman & JSON Server
+This project is focused on building and testing a mock RESTful API using Postman and JSON Server for managing student information. It involves creating a dataset of 30 student records, running a local server to simulate API behavior, and performing complete CRUD operations (Create, Read, Update, Delete). Additionally, the project demonstrates data-driven testing by adding 20 more student records through automated execution in Postman.
+
+To begin, we create a file named db.json that contains a list of 30 students, with each student having an id, name, email, and phone number. Once the data file is ready, we use the command json-server --watch db.json to start the JSON Server. This launches a local API server at http://localhost:3000/students, which we can interact with using Postman.
+
+Using Postman, we can perform various HTTP operations. A GET request to the /students endpoint retrieves the full list of students, while GET /students/{id} fetches a specific student by ID. To add a new student, we use a POST request with a JSON body containing the student's details. If we need to update an entire student record, we use the PUT method, and for partial updates like changing only the phone number, we use the PATCH method. To delete a student record, we send a DELETE request to the corresponding student’s URL.
+
+For the data-driven part, we prepare an additional JSON file with 20 new student records. These are inserted using a Postman Collection that reads data from this file and runs the POST request multiple times using the Collection Runner. This simulates automated bulk data entry and helps in verifying the API's ability to handle multiple requests effectively.
+
+This project is a practical example of how to simulate API testing scenarios using open-source tools like JSON Server and Postman. It is especially useful for beginners in API testing and software quality assurance, as it covers both manual and automated API validation with realistic data. The final result is a fully functioning local REST API that can be tested, modified, and extended as needed.
